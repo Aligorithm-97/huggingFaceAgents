@@ -14,6 +14,10 @@ Multi-Agent Systems – Combining different agents enhances AI-driven solutions.
 
 Vision and Browser Agents – Vision agents use Vision-Language Models (VLMs) for image-based reasoning and multimodal interactions. This module explores their integration, including building browser agents for web data extraction.
 
+Agentic RAG (Retrieval-Augmented Generation) extends traditional RAG systems by combining autonomous agents with dynamic knowledge retrieval.
 
+While traditional RAG systems use an LLM to answer queries based on retrieved data, agentic RAG enables intelligent control of both retrieval and generation processes, improving efficiency and accuracy.
+
+Traditional RAG systems face key limitations, such as relying on a single retrieval step and focusing on direct semantic similarity with the user’s query, which may overlook relevant information.
 
 """
